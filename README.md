@@ -1,4 +1,4 @@
-## Hi there 👋
+Soy técnico en desarrollo web formado en el IES Las Fuentezuelas de Jaén. A lo largo de mi trayectoria he adquirido experiencia en diversos lenguajes de programación, tales como PHP, JavaScript, Python y Java. He trabajado principalmente con los frameworks Symfony y Angular, y tengo un buen manejo de bases de datos como MySQL y SQLDeveloper. Además, me siento cómodo utilizando herramientas como Docker y Git en mi flujo de trabajo diario.
 
 <!--
 **AlejandroSanchezJimenez/AlejandroSanchezJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
