@@ -18,20 +18,18 @@ Me apasiona crear **interfaces modernas, eficientes y accesibles**. Siempre esto
 
 ## 💻 Proyectos destacados
 
-- **[Neosif](https://github.com/tu-usuario/neosif)** – Aplicación web profesional en React, con más de 40 componentes reutilizables y gestión de clientes.  
-- **[SocialMoto](https://github.com/tu-usuario/socialmoto)** – Red social para moteros desarrollada con Symfony, JavaScript y MySQL.  
-- **[Parkly](https://github.com/tu-usuario/parkly)** – App móvil en React Native y Firebase para gestionar parkings de moto.  
-
-> 🔗 Todos los proyectos están en mi GitHub y con documentación completa.
+- **[Neosif]** – Aplicación web profesional en React, con más de 40 componentes reutilizables y gestión de clientes.  
+- **[SocialMoto]** – Red social para moteros desarrollada con Symfony, JavaScript y MySQL.  
+- **[Parkly]** – App móvil en React Native y Firebase para gestionar parkings de moto.  
 
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: tuemail@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)  
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
+- ✉️ Email: alejandro.sanjim2000@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/tu-perfil]([https://www.linkedin.com/in/asanjim/])  
+- 🌐 Portfolio: [tu-portfolio.com]([https://alejandrounita.github.io/AlejandroSanchezJimenez/])
 
 ---
 
-> “Código limpio, interfaces accesibles y experiencias memorables.”
+> “Si lo puedes encapsular, ¡haz un componente!”
