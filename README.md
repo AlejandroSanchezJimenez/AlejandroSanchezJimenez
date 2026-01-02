@@ -27,8 +27,8 @@ Me apasiona crear **interfaces modernas, eficientes y accesibles**. Siempre esto
 ## 📫 Contacto
 
 - ✉️ Email: alejandro.sanjim2000@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/tu-perfil]([https://www.linkedin.com/in/asanjim/])  
-- 🌐 Portfolio: [tu-portfolio.com]([https://alejandrounita.github.io/AlejandroSanchezJimenez/])
+- 🔗 LinkedIn: [https://www.linkedin.com/in/asanjim/]
+- 🌐 Portfolio: [https://alejandrounita.github.io/AlejandroSanchezJimenez/]
 
 ---
 
